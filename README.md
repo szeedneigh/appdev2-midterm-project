@@ -1,5 +1,10 @@
 #  CRUD HTTP Server Using the File System Module
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
+</div>
+
 ## Project Overview
 
 This project is a RESTful API that mimics JSONPlaceholder's todos endpoint using Node.js and the fs module. It provides endpoints for creating, reading, updating, and deleting todo items, with data stored in a JSON file. The API also includes a logging system that tracks all API requests.
@@ -26,7 +31,7 @@ This project is a RESTful API that mimics JSONPlaceholder's todos endpoint using
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/appdev2-midterm-project.git
+   git clone https://github.com/szeedneigh/appdev2-midterm-project.git
    cd appdev2-midterm-project
    ```
 
@@ -49,7 +54,11 @@ This project is a RESTful API that mimics JSONPlaceholder's todos endpoint using
 
 2. The server will run on port 3000. You can access the API at http://localhost:3000
 
-3. Use a tool like Postman, curl, or any HTTP client to interact with the API.
+3. Use tools like Postman, Thunder Client, or any HTTP client to interact with the API.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
+</div>
 
 ### Example Requests
 
@@ -129,15 +138,29 @@ The API returns appropriate status codes:
 I am a technology enthusiast currently pursuing my degree in Bachelor of Information Systems at La Verdad Christian College, I am deeply interested in creating efficient, scalable, and maintainable software solutions that leverage the modern technology standards.
 
 ### Skills & Expertise
-- **Programming Languages**: JavaScript, Typescript, Python, Java, C++, C#, PHP
-- **Frameworks & Libraries**: Express.js, Django, Flask, Node.js, React, Next.js
-- **Tools & Technologies**: Git, GitHub, OpenCV, YOLOv10, Tesseract OCR 
-- **Databases**: MySQL, MongoDB
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php" alt="Programming Languages" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=express,django,flask,nodejs,react,nextjs" alt="Frameworks & Libraries" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" /> 
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="OpenCV" height="50" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+</div>
 
 ### Connect With Me
-- GitHub: [szeedneigh](github.com/szeedneigh)
-- Instagram: [szeedneigh](instagram.com/szeedneigh)
-- X: [szeedneigh](x.com/szeedneigh)
+<div>
+  <a href="https://github.com/szeedneigh">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+  <a href="https://instagram.com/szeedneigh">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
+  <a href="https://x.com/szeedneigh">
+    <img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="X (Twitter)" height="40" />
+  </a>
+</div>
 
 ---
 
