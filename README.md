@@ -129,7 +129,7 @@ The API returns appropriate status codes:
 
 ## API Demonstration
 
-[]
+[![Watch the video](assets\demo_thumbnail.png)](assets\demo.mp4)
 
 ## About Me
 
