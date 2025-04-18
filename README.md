@@ -115,7 +115,7 @@ DELETE http://localhost:3000/todos/1
 - **HTTP Server**: Uses Node.js built-in http module
 - **Data Storage**: Uses fs module to read from and write to todos.json
 - **Request Logging**: Uses EventEmitter from the events module to log API requests
-- **URL Parsing**: Uses the url module to parse request URLs and query parameters
+- **URL Parsing**: Uses the url module to parse reques    t URLs and query parameters
 
 ## Error Handling
 
@@ -129,7 +129,7 @@ The API returns appropriate status codes:
 
 ## API Demonstration
 
-[![Watch the video](assets\demo_thumbnail.png)](assets\demo.mp4)
+[![Watch Here](https://raw.githubusercontent.com/szeedneigh/appdev2-midterm-project/main/assets/demo_thumbnail.jpg)](https://drive.google.com/drive/folders/1J88HnenLguZWzx-yjdzKD9-3HKNUTEnG?usp=drive_link)
 
 ## About Me
 
