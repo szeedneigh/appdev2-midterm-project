@@ -129,7 +129,7 @@ The API returns appropriate status codes:
 
 ## API Demonstration
 
-[![Watch Here](https://raw.githubusercontent.com/szeedneigh/appdev2-midterm-project/main/assets/demo_thumbnail.jpg)](https://drive.google.com/drive/folders/1J88HnenLguZWzx-yjdzKD9-3HKNUTEnG?usp=drive_link)
+[![Watch Here](https://raw.githubusercontent.com/szeedneigh/appdev2-midterm-project/main/assets/demo_thumbnail.png)](https://drive.google.com/drive/folders/1J88HnenLguZWzx-yjdzKD9-3HKNUTEnG?usp=drive_link)
 
 ## About Me
 
